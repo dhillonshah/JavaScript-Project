@@ -2,25 +2,3 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-
-a {
-  color: #00B7FF;
-}
-.navbar {
-    position: fixed;
-    width: 100%;
-    transition: background-color 1s;
-}
-
-.rect {
-    width: 100%;
-    height: 100vh;
-}
-
-#green {
-    background-color: #559065;
-}
-
-#blue {
-    background-color: #7eb3a7;
-}
